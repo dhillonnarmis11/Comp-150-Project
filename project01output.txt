@@ -1,0 +1,40 @@
+While wandering through an ancient forest,
+you stumble upon a magic mirror.
+To your astonishment, it greets you with a 'Hello, explorer!'
+               ooooooooOOOOOOOOOOOooooooo
+             oooOO                    OOooo
+          ooOO                          OOoo
+        ooOO       Hello, Explorer!        OOoo
+      oOOO                                   OOOo
+    oOOO           ;;;;;;;;;;;;;;;;;          OOOo
+   oOOO          ;;;               ;;;         OOOo
+  oOOOO          ;;    ---  ---     ;;          OOOOo
+ oOOOO           ;;    (@)  (@)     ;;           OOOOo
+ oOOO            ;;                 ;;            OOOo
+ oOO             ;;;      UU       ;;;            OOOo
+ oOO             ;;;               ;;;            OOo
+ oOO              ;;               ;;             OOo
+  oOO              ;;   '.._..'   ;;             OOo
+   oOO              ;;           ;;              OOo
+    oOO               ;;       ;;               OOo
+      oOO              ''''''''                OOo
+        oOOOO                                OOOOo
+           oOOOO                         OOOOo
+             ooooooOOOOOOooooooOOOOOOoooooo
+
+User input: S
+Magic Mirror awaits your command...
+The Magic Mirror senses your good mood!
+           ;;;;;;;;;;;;;;;;;      
+         ;;;               ;;;    
+         ;;    ---  ---     ;;    
+         ;;    (@)  (@)     ;;    
+         ;;                 ;;    
+         ;;;      UU       ;;;    
+         ;;;               ;;;    
+          ;;  '.-------;   ;;     
+           ;;   '.._..'   ;;      
+            ;;           ;;       
+              ;;       ;;         
+               '''''''''          
+Exiting Game. Magic Mirror says: Thank you, Goodbye!
