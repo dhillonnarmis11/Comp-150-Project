@@ -1,6 +1,9 @@
 Individual Project Report 
+
 Last name: Dhillon
-Fist name: Simran
+
+First name: Simran
+
 ID: 300211810
 
 
