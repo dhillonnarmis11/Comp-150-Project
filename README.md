@@ -1,14 +1,8 @@
-Individual Project Report (8 am 10/25)
+Individual Project Report 
 Last name: Dhillon
 Fist name: Simran
 ID: 300211810
 
-First, rename this file by adding your last name and first name initial (e.g., Project01Fall23_LeeKJ). 
-
-In addition to writing a report, your presentation is required; Your presentation (around 5 minutes) must include (a) a demo-run of your program and (b) an explanation of your C++ program design including function definition. 
-
-
-Your report sections
 
 1.	Summary: Write a summary of your program design.
 Program Summary of Magic Mirror Interactive Game:
