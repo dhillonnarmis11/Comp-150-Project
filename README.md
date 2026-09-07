@@ -118,5 +118,3 @@ cplusplus.com. (n.d.). Character sequences. https://cplusplus.com/doc/tutorial/n
 
 cplusplus.com. (n.d.). Arrays - C++ Tutorials. https://cplusplus.com/doc/tutorial/arrays/ 
 
-
-<img width="473" height="649" alt="image" src="https://github.com/user-attachments/assets/01c2d177-7c84-4a2f-b358-5f315070a93c" />
